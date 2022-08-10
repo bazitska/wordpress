@@ -11,5 +11,5 @@ Contraseña:<br>
 
 -- Panel de administración (wp-admin)<br>
 Nombre de usuario: lelibazitska@gmail.com<br>
-Contraseña: !#leliLELI!<br>
+Contraseña: !#leliLELI!<br><br>
 :)
